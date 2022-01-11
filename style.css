@@ -1,6 +1,7 @@
 @media (max-width: 700px) {
   ul {
     flex-wrap: wrap;
+    gap: 5px;
   }
 }
 body {
